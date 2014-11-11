@@ -1,0 +1,4 @@
+FrequencyCalc
+=============
+
+Practice with Python
