@@ -29,3 +29,10 @@ print words
 
 #More throught out way -- Making a function
 #Counting Letters
+def freqCountL(phrase):
+	#making dictionary to store letter and frequency
+	dic = {}
+
+		return dic 
+
+print dic 
