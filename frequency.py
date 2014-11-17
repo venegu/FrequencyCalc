@@ -26,6 +26,7 @@ print words
 #this method will include punctuation as part of a word
 #if input "bananas! bananas" 
 #will output 1 for bananas! and 1 for banana
+#manually doing this you can make a case to check for grammar
 
 #More throught out way -- Making a function
 #Counting Letters
